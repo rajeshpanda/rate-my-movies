@@ -1,5 +1,5 @@
 # rate-my-movies
-Python script to rate your local drive movies by fetching details from api.themoviedb.org
+Python script to rate your local drive movies by fetching details from _api.themoviedb.org_
 
 
 ## How to run it?
